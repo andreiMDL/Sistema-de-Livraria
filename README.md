@@ -19,3 +19,6 @@ Cadastrar livros: Adicionar novos livros ao acervo da biblioteca.
   - Ver a lista de todos os livros: Acessar o catálogo completo de livros, incluindo os disponíveis e os indisponíveis.
   - Ver a lista de empréstimos: Consultar os registros de empréstimos feitos pelos clientes.
   - Ver a lista de clientes: Observar a lista de clientes cadastrados no sistema.
+
+## 💜 Agradecimentos
+Este desafio foi proporcionado pela Rocketseat, como parte de sua formação em Java. Agradeço à equipe da Rocketseat pela oportunidade de aprendizado e pela orientação proporcionada ao longo do desafio.
