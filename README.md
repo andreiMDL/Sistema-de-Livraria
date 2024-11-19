@@ -20,5 +20,11 @@ Cadastrar livros: Adicionar novos livros ao acervo da biblioteca.
   - Ver a lista de empréstimos: Consultar os registros de empréstimos feitos pelos clientes.
   - Ver a lista de clientes: Observar a lista de clientes cadastrados no sistema.
 
+## 📦 Como Executar
+1.Clone o repositório:
+  git clone https://github.com/andreiMDL/sistema-de-livraria.git
+2.Importe o projeto em sua IDE de preferência.
+3.Execute a classe principal para iniciar o sistema.
+
 ## 💜 Agradecimentos
 Este desafio foi proporcionado pela Rocketseat, como parte de sua formação em Java. Agradeço à equipe da Rocketseat pela oportunidade de aprendizado e pela orientação proporcionada ao longo do desafio.
